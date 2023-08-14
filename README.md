@@ -1,7 +1,9 @@
 # Virus Guard App : 
-    The app's interface presents this information in an easily understandable format, allowing users to quickly grasp the extent of the virus's impact in different 
-    regions. By providing insights into the prevalence of COVID-19 on a country-by-country basis, the app aims to keep users informed about the current state of 
-    the pandemic across the globe.
+    The app's interface presents this information in an easily understandable format, 
+    allowing users to quickly grasp the extent of the virus's impact in different regions.
+    By providing insights into the prevalence of COVID-19 on a country-by-country basis, 
+    the app aims to keep users informed about the current state of the pandemic across the globe.
+  
     
 
 
